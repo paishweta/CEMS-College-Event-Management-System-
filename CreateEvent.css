@@ -1,0 +1,59 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #F1F4F6;
+    overflow-x: hidden;
+}
+
+.navbar-custom {
+    background: #446DC9;
+}
+
+.nav-item {
+    margin-left: 60px;
+}
+
+.links  {
+    color: black;
+}
+
+.create-event-btn {
+	color: white;
+}
+
+/* .links:active {
+    color: #98D8F3;
+} */
+
+.logo {
+    width: 50%;
+}
+
+.event-registration-form {
+    margin-top: 50px;
+    width: 65%;
+    text-align: left;
+}
+
+.submit-btn {
+    width: 20%;
+    margin-bottom: 90px;
+}
+
+@media (max-width: 1024px) {
+
+    .submit-btn{
+        width: 45%;
+    }
+}
+
+.update-profile-btn {
+    width: 30%;
+    margin-bottom: 90px;
+}
+
+@media (max-width: 1024px) {
+
+    .update-profile-btn{
+        width: 65%;
+    }
+}

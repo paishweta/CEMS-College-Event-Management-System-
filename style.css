@@ -1,0 +1,170 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #F1F4F6;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: #446DC9;
+    color: black;
+}
+
+
+
+.logo {
+    width: 50%;
+}
+
+#Landing {
+    margin: 60px 0 0 30px;
+}
+
+.landing-intro {
+    padding-left: 40px;
+}
+
+.landing-intro h1{
+    font-size: 58px;
+}
+
+.landing-intro h3{
+margin-top: 30px;
+font-size: 24px;
+}
+
+.landing-intro img {
+    width: 75%;   
+}
+
+.login form{
+    background-color: #fff;
+    width: 80%;
+    padding: 40px 30px 40px 50px;
+    box-shadow: 0px 4px 30px rgba(100,100,100,0.5);
+}
+
+.login form label {
+    margin-top: 20px;
+}
+
+.login form input {
+    width: 80%;
+    padding: 5px;
+}
+
+.login form input small{
+	cursor:pointer;
+	font-size:15px;
+	color:red;
+	background:transparent;
+	height:50 px;
+}
+
+.forgot-password {
+    text-align: right;
+    font-size: 12px;
+}
+
+
+.login form button {
+    margin-top: 40px;
+    margin-left: 25%;
+    padding: 10px 20px;
+    width: 45%;
+    background-color: #98D8F3;
+    box-shadow: 0px 2px 4px rgba(100,100,100,0.5);
+    border: none;
+    border-radius: 8px;
+}
+
+.sign-up-prompt {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#CEMS {
+    margin: 70px 60px 0;
+}
+
+#CEMS h1 {
+    font-size: 48px;
+}
+
+.log-img{
+    width: 70%;
+    padding-top: 2%;
+}
+
+h3{
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 10%;
+    padding-top: 2%;
+}
+p{
+    font-size: 1.2rem;
+}
+#about_us{
+    background-color: #446DC9;
+    margin: 3%;
+    
+}
+.aboutus{
+    font-size: 3rem;
+    color: #fff;
+    line-height: 2;
+    padding: 5% 3%;
+}
+.about{
+    color: #fff;
+    padding-left: 3%;
+    font-size: 1.2rem;
+
+}
+.profile_images{
+    width: 50%;
+}
+
+.profile_pic1{
+    position: relative;
+    /* left: 60%;
+    top: 420%; */
+}
+.profile_pic2{
+    position: relative;
+    /* left: 80%;
+    top: 420%; */
+}
+.profile_pic3{
+    position: relative;
+    /* left: 70%;
+    top: 440%; */
+}
+.profile_pic4{
+    position: relative;
+    /* left: 60%;
+    top: 460%; */
+}
+.profile_pic5{
+    position: relative;
+    /* left: 80%;
+    top: 460%; */
+}
+.footer-icons{
+    font-size: 1em;
+    color: #000; 
+    display:block;
+    padding: 5% 10%;
+    text-align: center;
+
+}
+.fa-twitter,.fa-facebook-f,.fa-instagram,.fa-envelope{
+    padding: 2% 1.5%;
+}
+.last{
+    padding-left: 5%; 
+    background-color: #446DC9;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin: 2%;
+}
